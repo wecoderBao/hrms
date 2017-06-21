@@ -2,3 +2,6 @@ ssm后台管理系统
 https://github.com/ZHENFENG13/ssm-demo
 博客系统
 https://github.com/ZHENFENG13/My-Blog
+
+百度富文本编辑jsp版本
+http://ueditor.baidu.com/website/download.html
